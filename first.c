@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int a=76;
+int a=100;
 int m=64;
 if (a>75 && m> 75)
 {
