@@ -15,5 +15,4 @@ int main()
     }else{
         printf("it is not a pallindrome");
     }
-
-}
+}  

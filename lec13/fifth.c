@@ -1,4 +1,4 @@
-//print element those sum is maximum//
+//print element those sum is maximum by two loops//
 #include<stdio.h>
 int main()
 {
