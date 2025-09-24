@@ -1,3 +1,4 @@
+//print sum of array
 #include<stdio.h>
 int main()
 {
@@ -6,6 +7,6 @@ int main()
     for(int i=0;i<5;i++){
         sum=sum+arr[i];
     }
-    printf("%d",sum);
+    printf("%d\n",sum);
     return 0;
 }

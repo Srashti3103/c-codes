@@ -1,3 +1,4 @@
+// print array 
 #include<stdio.h>
 int main()
 {

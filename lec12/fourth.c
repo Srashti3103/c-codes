@@ -1,3 +1,4 @@
+// print max element of this array 
 #include<stdio.h>
 int main()
 {
