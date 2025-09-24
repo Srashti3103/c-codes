@@ -1,0 +1,1 @@
+//swqp two array using pointer
