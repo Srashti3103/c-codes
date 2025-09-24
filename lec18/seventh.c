@@ -1,0 +1,1 @@
+//print common element in 2 arrayy
