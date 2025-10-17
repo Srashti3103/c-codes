@@ -1,4 +1,4 @@
-//min of array
+// print min of array
 #include<stdio.h>
 int main()
 {

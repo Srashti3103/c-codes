@@ -1,14 +1,20 @@
-//count digit of number//
+//print number of digit 
 #include <stdio.h>
-int main(){
-     int n=234;
-    int count=0;
-    if(n==0){
-        count=1;
+int main() {
+    int num, count = 0;
+    printf("Enter a number: ");
+    scanf("%d", &num);
+    if (num == 0) {
+        count = 1;
     }
-    while (n>0)
-    {
-       count++;
-       n=n/10;
-    }   
+    else if (num < 0)//this block is not necessary
+     {
+         num = -num;
+     }
+        while (num != 0) {
+            num = num / 10; 
+            count++;         
+        }
+    printf("Number of digits: %d\n", count);
+    return 0;
 }

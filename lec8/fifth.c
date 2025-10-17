@@ -1,3 +1,4 @@
+//print square pattern in number series
 #include<stdio.h>
 int main()
 {

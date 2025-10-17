@@ -1,3 +1,4 @@
+//print greater number through if else 
 #include<stdio.h>
 int main()
 {

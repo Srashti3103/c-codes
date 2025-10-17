@@ -1,3 +1,4 @@
+//print month name through switch case
 #include <stdio.h>
  int main() {
     int month;

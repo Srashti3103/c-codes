@@ -1,4 +1,4 @@
-
+//print next prime number through while loop
 #include <stdio.h>
 
 int main() {

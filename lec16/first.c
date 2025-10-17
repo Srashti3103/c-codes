@@ -1,3 +1,4 @@
+//arrange the array in sequence 
 #include<stdio.h>
 int main()
 {

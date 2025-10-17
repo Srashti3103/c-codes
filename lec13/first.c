@@ -1,3 +1,4 @@
+//print index number whose sum is 7
 #include<stdio.h>
 int main()
 {

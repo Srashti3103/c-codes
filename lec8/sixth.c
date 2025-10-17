@@ -1,3 +1,4 @@
+//right trianle pattern with alphabets series
 #include<stdio.h>
 int main()
 {

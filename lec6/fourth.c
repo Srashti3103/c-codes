@@ -1,4 +1,5 @@
- #include <stdio.h>
+//print number is prime or not 
+#include <stdio.h>
  int main()
   {
  int n = 6;

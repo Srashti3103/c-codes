@@ -1,3 +1,4 @@
+// right triangle 
 #include<stdio.h>
 int main ()
 {

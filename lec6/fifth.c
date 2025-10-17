@@ -1,7 +1,9 @@
+//print it is a pallindrome or not through while loop
 #include<stdio.h>
 int main ()
 {
-     int num;
+int num;
+printf("enter a number ");
 scanf("%d",&num);
    int original=num;
     int res=0;

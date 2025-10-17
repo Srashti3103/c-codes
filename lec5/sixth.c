@@ -1,3 +1,4 @@
+//reverse table 
 #include<stdio.h>
 int main ()
 {

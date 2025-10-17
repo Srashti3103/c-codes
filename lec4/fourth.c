@@ -1,3 +1,4 @@
+//print grade through switch case
 #include <stdio.h>
  int main() {
     char grade;

@@ -1,3 +1,4 @@
+//while loopm
 #include<stdio.h>
 int main()
 {

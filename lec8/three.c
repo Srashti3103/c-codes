@@ -1,3 +1,4 @@
+//square pattern with alphabets
 #include<stdio.h>
 int main()
 {   

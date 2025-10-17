@@ -1,4 +1,5 @@
- #include <stdio.h>
+//ATM Machine
+#include <stdio.h>
  int main() {
     int choice;
     float balance = 1000, amount;

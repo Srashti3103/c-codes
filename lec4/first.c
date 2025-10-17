@@ -1,3 +1,4 @@
+//print PALLINDROME throug while loop
 #include <stdio.h>
 
 int main() {

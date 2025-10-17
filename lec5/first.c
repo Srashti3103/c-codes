@@ -1,4 +1,5 @@
- #include <stdio.h>
+//currency converter
+#include <stdio.h>
  int main() {
     int choice;
     float inr;

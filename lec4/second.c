@@ -1,4 +1,5 @@
- #include <stdio.h>
+//print week day through switch case
+#include <stdio.h>
  int main() {
     int day;
     printf("Enter day number (1-7): ");

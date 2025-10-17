@@ -1,3 +1,4 @@
+//right triangle with number series in reverse
 #include<stdio.h>
 int main()
 {

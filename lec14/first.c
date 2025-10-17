@@ -1,3 +1,4 @@
+//max sum of consecutive element 
 #include <stdio.h>
 #include <limits.h>
 
