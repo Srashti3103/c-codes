@@ -4,6 +4,7 @@
   {
  int n = 6;
  int i;
+ 
  if (n <= 1)
  {
      printf("not prime\n");
