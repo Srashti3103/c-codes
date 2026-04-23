@@ -6,7 +6,8 @@ int main() {
     printf("Enter a number: ");
     scanf("%d", &n);
 
-    int candidate = n + 1;   
+    int candidate = n + 1;
+       
 
     while (1) {
         int isPrime = 1;    
