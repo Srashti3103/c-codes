@@ -6,6 +6,7 @@ int main()
      printf("%d\n", i);
      
  }
+ 
  for (int i = 1; i <= 5; i++) {
      if (i == 3) continue;;;  
      printf("%d\n",i);
