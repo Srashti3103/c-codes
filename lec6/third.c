@@ -3,6 +3,7 @@
 
 int main() {
     int n;
+    
     printf("Enter a number: ");
     scanf("%d", &n);
 
@@ -16,6 +17,7 @@ int main() {
             if (candidate % i == 0) {
                 isPrime = 0;   
                 break;
+                
             }
         }
 
