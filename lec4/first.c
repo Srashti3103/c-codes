@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int num, original, reversed = 0, remainder;
 
     printf("Enter a number: ");
