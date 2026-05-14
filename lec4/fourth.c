@@ -1,6 +1,7 @@
 //print grade through switch case
 #include <stdio.h>
  int main() {
+    
     char grade;
     printf("Enter grade (A, B, C, D, F): ");
     scanf(" %c", &grade);
